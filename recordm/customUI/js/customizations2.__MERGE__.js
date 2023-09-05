@@ -1,1 +1,1 @@
-import("./cob/_format_currency.js");
+import "./cob/_format_currency.js";
